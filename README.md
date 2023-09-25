@@ -1,2 +1,1 @@
-# gymx_android_project
-# gymx_android_project
+# GymX Android Project
